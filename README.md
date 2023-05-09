@@ -1,3 +1,5 @@
+**Personal blog:** [matt-rickard.com](https://matt-rickard.com)
+
 **Current Projects**
 
 [ReLLM](https://github.com/r2d4/rellm) - Exact structure out of any LLM by constraining pre-generation logits with regex. [ParserLLM](https://github.com/r2d4/parserllm) is an extension to ReLLM that constrains LLMs to only generating a specific context-free grammar (e.g., JSON).
