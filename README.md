@@ -4,9 +4,9 @@
 
 [ReLLM](https://github.com/r2d4/rellm) - Exact structure out of any LLM by constraining pre-generation logits with regex. [ParserLLM](https://github.com/r2d4/parserllm) is an extension to ReLLM that constrains LLMs to only generating a specific context-free grammar (e.g., JSON).
 
-[openlm](https://github.com/r2d4/openlm) (Python) - a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. OpenLM takes in the same parameters as the openai.Completion class and and outputs a similarly structured result.
+[openlm](https://github.com/r2d4/openlm) - a drop-in OpenAI-compatible Python library that can call LLMs from any other hosted inference API. OpenLM takes in the same parameters as the openai.Completion class and and outputs a similarly structured result.
 
-[llm.ts](https://github.com/r2d4/llm.ts) (TypeScript) - A TypeScript equivalent of OpenLM that works in any JS environment (browser, node, deno)
+[llm.ts](https://github.com/r2d4/llm.ts) - A TypeScript equivalent of OpenLM that works in any JS environment (browser, node, deno)
 
 [virgo](https://github.com/r2d4/virgo) - Graph-based Declarative Configuration Language
 
