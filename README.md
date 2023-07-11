@@ -2,6 +2,8 @@
 
 **Current Projects**
 
+[thiggle/api](https://github.com/thiggle/api) - Hosted categorization and classification API powered by LLMs. Give it a prompt and some categorizes, and it returns structured JSON with only the matching categories.
+
 [@react-llm/headless](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. All inference happens clientside in the browser. See [chat.matt-rickard.com](https://chat.matt-rickard.com) for a live example.
 
 [LLaMaTab](https://github.com/r2d4/react-llm/packages/extension) - A Chrome Extension that uses @react-llm/headless to run a LLM entirely in the browser. Load the model once and run on any site.
