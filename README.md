@@ -2,7 +2,7 @@
 
 **Current Projects**
 
-[thiggle/api](https://github.com/thiggle/api) - Hosted categorization and classification API powered by LLMs. Give it a prompt and some categorizes, and it returns structured JSON with only the matching categories.
+[thiggle/api](https://github.com/thiggle/api) - Structured LLM completion APIs. Generate text with LLMs that conform to regex patterns, context-free grammars, or classification.
 
 [@react-llm/headless](https://github.com/r2d4/react-llm) - Easy-to-use headless React Hooks to run LLMs in the browser with WebGPU. All inference happens clientside in the browser. See [chat.matt-rickard.com](https://chat.matt-rickard.com) for a live example.
 
