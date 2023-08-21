@@ -1,7 +1,7 @@
 **Personal blog:** [matt-rickard.com](https://matt-rickard.com)
 
 **Current Projects**
-[Model API Gateway](https://github.com/thiggle/api) - Call over 20+ LLMs from a single API interface.
+[Model API Gateway](https://github.com/thiggle/api) - Call over 20+ LLMs from a single API.
 
 [Structured LLM Completion APIs](https://github.com/thiggle/api) - Structured LLM completion APIs. Generate text with LLMs that conform to regex patterns, context-free grammars, or classification.
 
