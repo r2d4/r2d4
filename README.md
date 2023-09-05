@@ -2,6 +2,8 @@
 
 **Current Projects**
 
+[Typed LLM API](https://docs.thiggle.com/api-docs/typed) - Use TypeScript types to enforce a schema on LLM output
+
 [Model API Gateway](https://github.com/thiggle/api) - Call over 20+ LLMs from a single API.
 
 [Structured LLM Completion APIs](https://github.com/thiggle/api) - Structured LLM completion APIs. Generate text with LLMs that conform to regex patterns, context-free grammars, or classification.
