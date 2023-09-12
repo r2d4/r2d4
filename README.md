@@ -1,6 +1,7 @@
 <table><tr><td valign="top" width="33%">
 
 ## AI
+
 [`Typed LLM API`](https://docs.thiggle.com/api-docs/typed) Use TypeScript types to enforce a schema on LLM output
 
 [`Model API Gateway`](https://github.com/thiggle/api) Call over 20+ LLMs from a single API. For a WebGPU powered Llama-2 playground, see [`thiggle`](https://thiggle.com/local-llm)
@@ -64,6 +65,3 @@
 `09-03` [Technical Metrics to Track in Engineering Orgs](https://matt-rickard.com/technical-metrics-to-track-in-engineering-orgs)
 <!--- end_blog -->
 </td></tr></table>
-
-
-
