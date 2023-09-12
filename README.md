@@ -43,6 +43,10 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-12` [The Inevitability of Scope Creep](https://matt-rickard.com/the-inevitability-of-scope-creep)
+
+`09-11` [Fine-tuning Stable Diffusion XL with Personal Photos](https://matt-rickard.com/fine-tuning-stable-diffusion-xl-with-personal-photos)
+
 `09-10` [The Low-Hanging Fruit](https://matt-rickard.com/the-low-hanging-fruit)
 
 `09-09` [Beyond Prompt Engineering](https://matt-rickard.com/beyond-prompt-engineering)
