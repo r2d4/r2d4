@@ -1,6 +1,3 @@
-**Personal blog:** [matt-rickard.com](https://matt-rickard.com)
-
-**Current Projects**
 <table><tr><td valign="top" width="33%">
 
 ## AI
