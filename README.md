@@ -44,6 +44,10 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-14` [Undetectable AI](https://matt-rickard.com/undetectable-ai)
+
+`09-13` [The New Economics of Generating Code](https://matt-rickard.com/the-new-economics-of-generating-code)
+
 `09-12` [The Inevitability of Scope Creep](https://matt-rickard.com/the-inevitability-of-scope-creep)
 
 `09-11` [Fine-tuning Stable Diffusion XL with Personal Photos](https://matt-rickard.com/fine-tuning-stable-diffusion-xl-with-personal-photos)
@@ -54,14 +58,10 @@
 
 `09-08` [The Hardware / Software Cycle](https://matt-rickard.com/the-hardware-software-cycle)
 
-`09-07` [Raft: The Distribute Systems Algorithm](https://matt-rickard.com/raft-the-distribute-systems-algorithm)
+`09-07` [Raft: The Distributed Systems Algorithm](https://matt-rickard.com/raft-the-distributed-systems-algorithm)
 
 `09-06` [The Widgetification of Apple](https://matt-rickard.com/the-widgetification-of-apple)
 
 `09-05` [Type Constraints for LLM Output](https://matt-rickard.com/type-constraints-for-llm-output)
-
-`09-04` [Why Fast?](https://matt-rickard.com/why-fast)
-
-`09-03` [Technical Metrics to Track in Engineering Orgs](https://matt-rickard.com/technical-metrics-to-track-in-engineering-orgs)
 <!--- end_blog -->
 </td></tr></table>
