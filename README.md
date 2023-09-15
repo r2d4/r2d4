@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-15` [Cincinnatus](https://matt-rickard.com/cincinnatus)
+
 `09-14` [Undetectable AI](https://matt-rickard.com/undetectable-ai)
 
 `09-13` [The New Economics of Generating Code](https://matt-rickard.com/the-new-economics-of-generating-code)
@@ -61,7 +63,5 @@
 `09-07` [Raft: The Distributed Systems Algorithm](https://matt-rickard.com/raft-the-distributed-systems-algorithm)
 
 `09-06` [The Widgetification of Apple](https://matt-rickard.com/the-widgetification-of-apple)
-
-`09-05` [Type Constraints for LLM Output](https://matt-rickard.com/type-constraints-for-llm-output)
 <!--- end_blog -->
 </td></tr></table>
