@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-16` [The Age-old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
+
 `09-15` [Cincinnatus](https://matt-rickard.com/cincinnatus)
 
 `09-14` [Undetectable AI](https://matt-rickard.com/undetectable-ai)
@@ -61,7 +63,5 @@
 `09-08` [The Hardware / Software Cycle](https://matt-rickard.com/the-hardware-software-cycle)
 
 `09-07` [Raft: The Distributed Systems Algorithm](https://matt-rickard.com/raft-the-distributed-systems-algorithm)
-
-`09-06` [The Widgetification of Apple](https://matt-rickard.com/the-widgetification-of-apple)
 <!--- end_blog -->
 </td></tr></table>
