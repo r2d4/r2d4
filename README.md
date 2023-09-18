@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-18` [Five Principles from Renaissance Technologies](https://matt-rickard.com/five-principles-from-renaissance-technologies)
+
 `09-17` [Moving Upmarket](https://matt-rickard.com/moving-upmarket)
 
 `09-16` [The Age-old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
@@ -61,7 +63,5 @@
 `09-10` [The Low-Hanging Fruit](https://matt-rickard.com/the-low-hanging-fruit)
 
 `09-09` [Beyond Prompt Engineering](https://matt-rickard.com/beyond-prompt-engineering)
-
-`09-08` [The Hardware / Software Cycle](https://matt-rickard.com/the-hardware-software-cycle)
 <!--- end_blog -->
 </td></tr></table>
