@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-19` [Customized End User Software (with AI)](https://matt-rickard.com/customized-end-user-software-with-ai)
+
 `09-18` [Five Principles from Renaissance Technologies](https://matt-rickard.com/five-principles-from-renaissance-technologies)
 
 `09-17` [Moving Upmarket](https://matt-rickard.com/moving-upmarket)
@@ -61,7 +63,5 @@
 `09-11` [Fine-tuning Stable Diffusion XL with Personal Photos](https://matt-rickard.com/fine-tuning-stable-diffusion-xl-with-personal-photos)
 
 `09-10` [The Low-Hanging Fruit](https://matt-rickard.com/the-low-hanging-fruit)
-
-`09-09` [Beyond Prompt Engineering](https://matt-rickard.com/beyond-prompt-engineering)
 <!--- end_blog -->
 </td></tr></table>
