@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-20` [AI Biographers](https://matt-rickard.com/ai-biographers)
+
 `09-19` [Customized End User Software (with AI)](https://matt-rickard.com/customized-end-user-software-with-ai)
 
 `09-18` [Five Principles from Renaissance Technologies](https://matt-rickard.com/five-principles-from-renaissance-technologies)
@@ -61,7 +63,5 @@
 `09-12` [The Inevitability of Scope Creep](https://matt-rickard.com/the-inevitability-of-scope-creep)
 
 `09-11` [Fine-tuning Stable Diffusion XL with Personal Photos](https://matt-rickard.com/fine-tuning-stable-diffusion-xl-with-personal-photos)
-
-`09-10` [The Low-Hanging Fruit](https://matt-rickard.com/the-low-hanging-fruit)
 <!--- end_blog -->
 </td></tr></table>
