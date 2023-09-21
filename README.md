@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-21` [Automate (But Automate Last)](https://matt-rickard.com/automate-but-automate-last)
+
 `09-20` [AI Biographers](https://matt-rickard.com/ai-biographers)
 
 `09-19` [Customized End User Software (with AI)](https://matt-rickard.com/customized-end-user-software-with-ai)
@@ -61,7 +63,5 @@
 `09-13` [The New Economics of Generating Code](https://matt-rickard.com/the-new-economics-of-generating-code)
 
 `09-12` [The Inevitability of Scope Creep](https://matt-rickard.com/the-inevitability-of-scope-creep)
-
-`09-11` [Fine-tuning Stable Diffusion XL with Personal Photos](https://matt-rickard.com/fine-tuning-stable-diffusion-xl-with-personal-photos)
 <!--- end_blog -->
 </td></tr></table>
