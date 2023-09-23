@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-23` [The Fundamental Attribution Error](https://matt-rickard.com/the-fundamental-attribution-error)
+
 `09-22` [Good Enough Abstractions](https://matt-rickard.com/good-enough-abstractions)
 
 `09-21` [Automate (But Automate Last)](https://matt-rickard.com/automate-but-automate-last)
@@ -61,7 +63,5 @@
 `09-15` [Cincinnatus](https://matt-rickard.com/cincinnatus)
 
 `09-14` [Undetectable AI](https://matt-rickard.com/undetectable-ai)
-
-`09-13` [The New Economics of Generating Code](https://matt-rickard.com/the-new-economics-of-generating-code)
 <!--- end_blog -->
 </td></tr></table>
