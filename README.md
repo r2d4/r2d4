@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-24` [LLMs as System 1 Thinkers](https://matt-rickard.com/llms-as-system-1-thinkers)
+
 `09-23` [The Fundamental Attribution Error](https://matt-rickard.com/the-fundamental-attribution-error)
 
 `09-22` [Good Enough Abstractions](https://matt-rickard.com/good-enough-abstractions)
@@ -61,7 +63,5 @@
 `09-16` [The Age-old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
 
 `09-15` [Cincinnatus](https://matt-rickard.com/cincinnatus)
-
-`09-14` [Undetectable AI](https://matt-rickard.com/undetectable-ai)
 <!--- end_blog -->
 </td></tr></table>
