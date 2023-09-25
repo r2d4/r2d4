@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-25` [Observer-Expectancy at Scale](https://matt-rickard.com/observer-expectancy-at-scale)
+
 `09-24` [LLMs as System 1 Thinkers](https://matt-rickard.com/llms-as-system-1-thinkers)
 
 `09-23` [The Fundamental Attribution Error](https://matt-rickard.com/the-fundamental-attribution-error)
@@ -61,7 +63,5 @@
 `09-17` [Moving Upmarket](https://matt-rickard.com/moving-upmarket)
 
 `09-16` [The Age-old Resistance to Generated Code](https://matt-rickard.com/the-age-old-resistance-to-generated-code)
-
-`09-15` [Cincinnatus](https://matt-rickard.com/cincinnatus)
 <!--- end_blog -->
 </td></tr></table>
