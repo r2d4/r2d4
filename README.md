@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-28` [Passkeys, Crypto, and Signing AI Content](https://matt-rickard.com/passkeys-crypto-and-signing-ai)
+
 `09-27` [Is Data Still a Moat?](https://matt-rickard.com/is-data-still-a-moat)
 
 `09-26` [Multi-Modal AI is a UX Problem](https://matt-rickard.com/multi-modal-ai-is-a-ux-problem)
@@ -61,7 +63,5 @@
 `09-20` [AI Biographers](https://matt-rickard.com/ai-biographers)
 
 `09-19` [Customized End User Software (with AI)](https://matt-rickard.com/customized-end-user-software-with-ai)
-
-`09-18` [Five Principles from Renaissance Technologies](https://matt-rickard.com/five-principles-from-renaissance-technologies)
 <!--- end_blog -->
 </td></tr></table>
