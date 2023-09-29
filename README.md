@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-29` [Is AI a Platform Shift?](https://matt-rickard.com/is-ai-a-platform-shift)
+
 `09-28` [Passkeys, Crypto, and Signing AI Content](https://matt-rickard.com/passkeys-crypto-and-signing-ai)
 
 `09-27` [Is Data Still a Moat?](https://matt-rickard.com/is-data-still-a-moat)
@@ -61,7 +63,5 @@
 `09-21` [Automate (But Automate Last)](https://matt-rickard.com/automate-but-automate-last)
 
 `09-20` [AI Biographers](https://matt-rickard.com/ai-biographers)
-
-`09-19` [Customized End User Software (with AI)](https://matt-rickard.com/customized-end-user-software-with-ai)
 <!--- end_blog -->
 </td></tr></table>
