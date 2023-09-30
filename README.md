@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`09-30` [Compression / Learning Duality](https://matt-rickard.com/compression-learning-duality)
+
 `09-29` [Is AI a Platform Shift?](https://matt-rickard.com/is-ai-a-platform-shift)
 
 `09-28` [Passkeys, Crypto, and Signing AI Content](https://matt-rickard.com/passkeys-crypto-and-signing-ai)
@@ -61,7 +63,5 @@
 `09-22` [Good Enough Abstractions](https://matt-rickard.com/good-enough-abstractions)
 
 `09-21` [Automate (But Automate Last)](https://matt-rickard.com/automate-but-automate-last)
-
-`09-20` [AI Biographers](https://matt-rickard.com/ai-biographers)
 <!--- end_blog -->
 </td></tr></table>
