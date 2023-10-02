@@ -44,7 +44,9 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
-`10-01` [Lessons From Debuggin](https://matt-rickard.com/lessons-from-debuggin)
+`10-02` [Generative Interfaces](https://matt-rickard.com/generative-interfaces)
+
+`10-01` [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 
 `09-30` [Compression / Learning Duality](https://matt-rickard.com/compression-learning-duality)
 
@@ -61,7 +63,5 @@
 `09-24` [LLMs as System 1 Thinkers](https://matt-rickard.com/llms-as-system-1-thinkers)
 
 `09-23` [The Fundamental Attribution Error](https://matt-rickard.com/the-fundamental-attribution-error)
-
-`09-22` [Good Enough Abstractions](https://matt-rickard.com/good-enough-abstractions)
 <!--- end_blog -->
 </td></tr></table>
