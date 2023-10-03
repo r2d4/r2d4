@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-03` [Pitfalls of Database Migrations](https://matt-rickard.com/pitfalls-of-database-migrations)
+
 `10-02` [Generative Interfaces](https://matt-rickard.com/generative-interfaces)
 
 `10-01` [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
@@ -61,7 +63,5 @@
 `09-25` [Observer-Expectancy at Scale](https://matt-rickard.com/observer-expectancy-at-scale)
 
 `09-24` [LLMs as System 1 Thinkers](https://matt-rickard.com/llms-as-system-1-thinkers)
-
-`09-23` [The Fundamental Attribution Error](https://matt-rickard.com/the-fundamental-attribution-error)
 <!--- end_blog -->
 </td></tr></table>
