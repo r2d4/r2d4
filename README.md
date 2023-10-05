@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-05` [Keep Going](https://matt-rickard.com/keep-going)
+
 `10-04` [The Benefit of a Personal Notation](https://matt-rickard.com/the-benefit-of-a-personal-notation)
 
 `10-03` [Pitfalls of Database Migrations](https://matt-rickard.com/pitfalls-of-database-migrations)
@@ -61,7 +63,5 @@
 `09-27` [Is Data Still a Moat?](https://matt-rickard.com/is-data-still-a-moat)
 
 `09-26` [Multi-Modal AI is a UX Problem](https://matt-rickard.com/multi-modal-ai-is-a-ux-problem)
-
-`09-25` [Observer-Expectancy at Scale](https://matt-rickard.com/observer-expectancy-at-scale)
 <!--- end_blog -->
 </td></tr></table>
