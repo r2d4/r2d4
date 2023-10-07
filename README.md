@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-07` [Incentives Behind Programming Languages](https://matt-rickard.com/incentives-behind-programming-languages)
+
 `10-06` [3D as the New Modality](https://matt-rickard.com/3d-as-the-new-modality)
 
 `10-05` [Keep Going](https://matt-rickard.com/keep-going)
@@ -61,7 +63,5 @@
 `09-29` [Is AI a Platform Shift?](https://matt-rickard.com/is-ai-a-platform-shift)
 
 `09-28` [Passkeys, Crypto, and Signing AI Content](https://matt-rickard.com/passkeys-crypto-and-signing-ai)
-
-`09-27` [Is Data Still a Moat?](https://matt-rickard.com/is-data-still-a-moat)
 <!--- end_blog -->
 </td></tr></table>
