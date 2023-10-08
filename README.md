@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-08` [The American Experiment](https://matt-rickard.com/the-american-experiment)
+
 `10-07` [Incentives Behind Programming Languages](https://matt-rickard.com/incentives-behind-programming-languages)
 
 `10-06` [3D as the New Modality](https://matt-rickard.com/3d-as-the-new-modality)
@@ -61,7 +63,5 @@
 `09-30` [Compression / Learning Duality](https://matt-rickard.com/compression-learning-duality)
 
 `09-29` [Is AI a Platform Shift?](https://matt-rickard.com/is-ai-a-platform-shift)
-
-`09-28` [Passkeys, Crypto, and Signing AI Content](https://matt-rickard.com/passkeys-crypto-and-signing-ai)
 <!--- end_blog -->
 </td></tr></table>
