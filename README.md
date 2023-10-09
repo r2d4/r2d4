@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
+
 `10-08` [The American Experiment](https://matt-rickard.com/the-american-experiment)
 
 `10-07` [Incentives Behind Programming Languages](https://matt-rickard.com/incentives-behind-programming-languages)
@@ -61,7 +63,5 @@
 `10-01` [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 
 `09-30` [Compression / Learning Duality](https://matt-rickard.com/compression-learning-duality)
-
-`09-29` [Is AI a Platform Shift?](https://matt-rickard.com/is-ai-a-platform-shift)
 <!--- end_blog -->
 </td></tr></table>
