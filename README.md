@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-10` [Anticipate the Cheap](https://matt-rickard.com/anticipate-the-cheap)
+
 `10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
 
 `10-08` [The American Experiment](https://matt-rickard.com/the-american-experiment)
@@ -61,7 +63,5 @@
 `10-02` [Generative Interfaces](https://matt-rickard.com/generative-interfaces)
 
 `10-01` [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
-
-`09-30` [Compression / Learning Duality](https://matt-rickard.com/compression-learning-duality)
 <!--- end_blog -->
 </td></tr></table>
