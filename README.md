@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-11` [Black Swan by Shakespeare](https://matt-rickard.com/black-swan-by-shakespeare)
+
 `10-10` [Anticipate the Cheap](https://matt-rickard.com/anticipate-the-cheap)
 
 `10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
@@ -61,7 +63,5 @@
 `10-03` [Pitfalls of Database Migrations](https://matt-rickard.com/pitfalls-of-database-migrations)
 
 `10-02` [Generative Interfaces](https://matt-rickard.com/generative-interfaces)
-
-`10-01` [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 <!--- end_blog -->
 </td></tr></table>
