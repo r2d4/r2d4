@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-14` [An Intelligent Wikipedia](https://matt-rickard.com/an-intelligent-wikipedia)
+
 `10-13` [The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack)
 
 `10-12` [Nagle's Algorithm](https://matt-rickard.com/nagles-algorithm-2)
@@ -61,7 +63,5 @@
 `10-06` [3D as the New Modality](https://matt-rickard.com/3d-as-the-new-modality)
 
 `10-05` [Keep Going](https://matt-rickard.com/keep-going)
-
-`10-04` [The Benefit of a Personal Notation](https://matt-rickard.com/the-benefit-of-a-personal-notation)
 <!--- end_blog -->
 </td></tr></table>
