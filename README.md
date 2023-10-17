@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-17` [The Inner-Platform Effect](https://matt-rickard.com/the-inner-platform-effect)
+
 `10-16` [Revision: Generative text-to-UI](https://matt-rickard.com/revision-generative-text-to-ui)
 
 `10-15` [Why Is the Frontend Stack So Complicated?](https://matt-rickard.com/why-is-the-frontend-stack-so-complicated)
@@ -61,7 +63,5 @@
 `10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
 
 `10-08` [The American Experiment](https://matt-rickard.com/the-american-experiment)
-
-`10-07` [Incentives Behind Programming Languages](https://matt-rickard.com/incentives-behind-programming-languages)
 <!--- end_blog -->
 </td></tr></table>
