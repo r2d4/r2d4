@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-18` [Can OpenAI Win Consumer and Enterprise?](https://matt-rickard.com/can-openai-win-consumer-and-enterprise)
+
 `10-17` [The Inner-Platform Effect](https://matt-rickard.com/the-inner-platform-effect)
 
 `10-16` [Revision: Generative text-to-UI](https://matt-rickard.com/revision-generative-text-to-ui)
@@ -61,7 +63,5 @@
 `10-10` [Anticipate the Cheap](https://matt-rickard.com/anticipate-the-cheap)
 
 `10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
-
-`10-08` [The American Experiment](https://matt-rickard.com/the-american-experiment)
 <!--- end_blog -->
 </td></tr></table>
