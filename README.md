@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-19` [Benefits of Small LLMs](https://matt-rickard.com/benefits-of-small-llms)
+
 `10-18` [Can OpenAI Win Consumer and Enterprise?](https://matt-rickard.com/can-openai-win-consumer-and-enterprise)
 
 `10-17` [The Inner-Platform Effect](https://matt-rickard.com/the-inner-platform-effect)
@@ -61,7 +63,5 @@
 `10-11` [Black Swan by Shakespeare](https://matt-rickard.com/black-swan-by-shakespeare)
 
 `10-10` [Anticipate the Cheap](https://matt-rickard.com/anticipate-the-cheap)
-
-`10-09` [Moravec's  Paradox](https://matt-rickard.com/moravecs-paradox)
 <!--- end_blog -->
 </td></tr></table>
