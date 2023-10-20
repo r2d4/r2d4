@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-20` [Pitfalls of File-based Routing](https://matt-rickard.com/pitfalls-of-file-based-routing)
+
 `10-19` [Benefits of Small LLMs](https://matt-rickard.com/benefits-of-small-llms)
 
 `10-18` [Can OpenAI Win Consumer and Enterprise?](https://matt-rickard.com/can-openai-win-consumer-and-enterprise)
@@ -61,7 +63,5 @@
 `10-12` [Nagle's Algorithm](https://matt-rickard.com/nagles-algorithm-2)
 
 `10-11` [Black Swan by Shakespeare](https://matt-rickard.com/black-swan-by-shakespeare)
-
-`10-10` [Anticipate the Cheap](https://matt-rickard.com/anticipate-the-cheap)
 <!--- end_blog -->
 </td></tr></table>
