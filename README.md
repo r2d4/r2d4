@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-21` [The Silent Todo List](https://matt-rickard.com/the-silent-todo-list)
+
 `10-20` [Pitfalls of File-based Routing](https://matt-rickard.com/pitfalls-of-file-based-routing)
 
 `10-19` [Benefits of Small LLMs](https://matt-rickard.com/benefits-of-small-llms)
@@ -61,7 +63,5 @@
 `10-13` [The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack)
 
 `10-12` [Nagle's Algorithm](https://matt-rickard.com/nagles-algorithm-2)
-
-`10-11` [Black Swan by Shakespeare](https://matt-rickard.com/black-swan-by-shakespeare)
 <!--- end_blog -->
 </td></tr></table>
