@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-22` [Retrieval Augmented Generation](https://matt-rickard.com/retrieval-augmented-generation)
+
 `10-21` [The Silent Todo List](https://matt-rickard.com/the-silent-todo-list)
 
 `10-20` [Pitfalls of File-based Routing](https://matt-rickard.com/pitfalls-of-file-based-routing)
@@ -61,7 +63,5 @@
 `10-14` [An Intelligent Wikipedia](https://matt-rickard.com/an-intelligent-wikipedia)
 
 `10-13` [The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack)
-
-`10-12` [Nagle's Algorithm](https://matt-rickard.com/nagles-algorithm-2)
 <!--- end_blog -->
 </td></tr></table>
