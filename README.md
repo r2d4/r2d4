@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-23` [Horizontal Tuning: Instruction, Chat, and What Else?](https://matt-rickard.com/horizontal-tuning-instruction-chat-and-what-else)
+
 `10-22` [Retrieval Augmented Generation](https://matt-rickard.com/retrieval-augmented-generation)
 
 `10-21` [The Silent Todo List](https://matt-rickard.com/the-silent-todo-list)
@@ -61,7 +63,5 @@
 `10-15` [Why Is the Frontend Stack So Complicated?](https://matt-rickard.com/why-is-the-frontend-stack-so-complicated)
 
 `10-14` [An Intelligent Wikipedia](https://matt-rickard.com/an-intelligent-wikipedia)
-
-`10-13` [The Half-Life of the AI Stack](https://matt-rickard.com/the-half-life-of-the-ai-stack)
 <!--- end_blog -->
 </td></tr></table>
