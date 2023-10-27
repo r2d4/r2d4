@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-27` [When A/B Testing Doesn't Work](https://matt-rickard.com/when-a-b-testing-doesnt-work)
+
 `10-26` [Between Images and Text: CLIP](https://matt-rickard.com/between-images-and-text-clip)
 
 `10-25` [Positioning Yourself Near the Opportunity](https://matt-rickard.com/positioning-yourself-near-the-opportunity)
@@ -61,7 +63,5 @@
 `10-19` [Benefits of Small LLMs](https://matt-rickard.com/benefits-of-small-llms)
 
 `10-18` [Can OpenAI Win Consumer and Enterprise?](https://matt-rickard.com/can-openai-win-consumer-and-enterprise)
-
-`10-17` [The Inner-Platform Effect](https://matt-rickard.com/the-inner-platform-effect)
 <!--- end_blog -->
 </td></tr></table>
