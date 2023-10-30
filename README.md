@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-30` [What If OpenAI Builds This?](https://matt-rickard.com/what-if-openai-builds-this)
+
 `10-29` [On Mixing Client and Server](https://matt-rickard.com/on-mixing-client-and-server)
 
 `10-28` [Infrastructure as Code Will be Written by AI](https://matt-rickard.com/infrastructure-as-code-will-be-written-by-ai)
@@ -61,7 +63,5 @@
 `10-22` [Retrieval Augmented Generation](https://matt-rickard.com/retrieval-augmented-generation)
 
 `10-21` [The Silent Todo List](https://matt-rickard.com/the-silent-todo-list)
-
-`10-20` [Pitfalls of File-based Routing](https://matt-rickard.com/pitfalls-of-file-based-routing)
 <!--- end_blog -->
 </td></tr></table>
