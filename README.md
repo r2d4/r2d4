@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`10-31` [Regulatory Capture in the Railroad Industry](https://matt-rickard.com/regulatory-capture-in-the-railroad-industry)
+
 `10-30` [What If OpenAI Builds This?](https://matt-rickard.com/what-if-openai-builds-this)
 
 `10-29` [On Mixing Client and Server](https://matt-rickard.com/on-mixing-client-and-server)
@@ -61,7 +63,5 @@
 `10-23` [Horizontal Tuning: Instruction, Chat, and What Else?](https://matt-rickard.com/horizontal-tuning-instruction-chat-and-what-else)
 
 `10-22` [Retrieval Augmented Generation](https://matt-rickard.com/retrieval-augmented-generation)
-
-`10-21` [The Silent Todo List](https://matt-rickard.com/the-silent-todo-list)
 <!--- end_blog -->
 </td></tr></table>
