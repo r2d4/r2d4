@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-01` [Mechanical Turks](https://matt-rickard.com/mechanical-turks)
+
 `10-31` [Regulatory Capture in the Railroad Industry](https://matt-rickard.com/regulatory-capture-in-the-railroad-industry)
 
 `10-30` [What If OpenAI Builds This?](https://matt-rickard.com/what-if-openai-builds-this)
@@ -61,7 +63,5 @@
 `10-24` [Tech Invariants](https://matt-rickard.com/tech-invariants)
 
 `10-23` [Horizontal Tuning: Instruction, Chat, and What Else?](https://matt-rickard.com/horizontal-tuning-instruction-chat-and-what-else)
-
-`10-22` [Retrieval Augmented Generation](https://matt-rickard.com/retrieval-augmented-generation)
 <!--- end_blog -->
 </td></tr></table>
