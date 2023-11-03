@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-03` [Lessons from llama.cpp](https://matt-rickard.com/lessons-from-llama-cpp)
+
 `11-02` [Why Model Evaluation is Difficult](https://matt-rickard.com/why-model-evaluation-is-difficult)
 
 `11-01` [Mechanical Turks](https://matt-rickard.com/mechanical-turks)
@@ -61,7 +63,5 @@
 `10-26` [Between Images and Text: CLIP](https://matt-rickard.com/between-images-and-text-clip)
 
 `10-25` [Positioning Yourself Near the Opportunity](https://matt-rickard.com/positioning-yourself-near-the-opportunity)
-
-`10-24` [Tech Invariants](https://matt-rickard.com/tech-invariants)
 <!--- end_blog -->
 </td></tr></table>
