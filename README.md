@@ -44,6 +44,18 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-09` [AI Agents, Today](https://matt-rickard.com/ai-agents-today)
+
+`11-08` [Norvig's Agent Definition](https://matt-rickard.com/norvigs-agent-definition)
+
+`11-07` [The Context Length Observation](https://matt-rickard.com/the-context-length-observation)
+
+`11-06` [To be, or not to be; ay, there’s the point.](https://matt-rickard.com/to-be-or-not-to-be-ay-theres-the-point)
+
+`11-05` [Improving RAG: Strategies](https://matt-rickard.com/improving-rag-strategies)
+
+`11-04` [Static Sites Aren't Simple Anymore](https://matt-rickard.com/static-sites-arent-simple-anymore)
+
 `11-03` [Lessons from llama.cpp](https://matt-rickard.com/lessons-from-llama-cpp)
 
 `11-02` [Why Model Evaluation is Difficult](https://matt-rickard.com/why-model-evaluation-is-difficult)
@@ -51,17 +63,5 @@
 `11-01` [Mechanical Turks](https://matt-rickard.com/mechanical-turks)
 
 `10-31` [Regulatory Capture in the Railroad Industry](https://matt-rickard.com/regulatory-capture-in-the-railroad-industry)
-
-`10-30` [What If OpenAI Builds This?](https://matt-rickard.com/what-if-openai-builds-this)
-
-`10-29` [On Mixing Client and Server](https://matt-rickard.com/on-mixing-client-and-server)
-
-`10-28` [Infrastructure as Code Will be Written by AI](https://matt-rickard.com/infrastructure-as-code-will-be-written-by-ai)
-
-`10-27` [When A/B Testing Doesn't Work](https://matt-rickard.com/when-a-b-testing-doesnt-work)
-
-`10-26` [Between Images and Text: CLIP](https://matt-rickard.com/between-images-and-text-clip)
-
-`10-25` [Positioning Yourself Near the Opportunity](https://matt-rickard.com/positioning-yourself-near-the-opportunity)
 <!--- end_blog -->
 </td></tr></table>
