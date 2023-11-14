@@ -44,7 +44,17 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
-`11-09` [AI Agents, Today](https://matt-rickard.com/ai-agents-today)
+`11-14` [What if Google Wasn’t The Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
+
+`11-13` [Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model)
+
+`11-12` [Eroom's Law](https://matt-rickard.com/erooms-law)
+
+`11-11` [The Lucretius Problem](https://matt-rickard.com/the-lucretius-problem)
+
+`11-10` [The Call to Adventure](https://matt-rickard.com/the-call-to-adventure)
+
+`11-09` [AI Agents Today](https://matt-rickard.com/ai-agents-today)
 
 `11-08` [Norvig's Agent Definition](https://matt-rickard.com/norvigs-agent-definition)
 
@@ -53,15 +63,5 @@
 `11-06` [To be, or not to be; ay, there’s the point.](https://matt-rickard.com/to-be-or-not-to-be-ay-theres-the-point)
 
 `11-05` [Improving RAG: Strategies](https://matt-rickard.com/improving-rag-strategies)
-
-`11-04` [Static Sites Aren't Simple Anymore](https://matt-rickard.com/static-sites-arent-simple-anymore)
-
-`11-03` [Lessons from llama.cpp](https://matt-rickard.com/lessons-from-llama-cpp)
-
-`11-02` [Why Model Evaluation is Difficult](https://matt-rickard.com/why-model-evaluation-is-difficult)
-
-`11-01` [Mechanical Turks](https://matt-rickard.com/mechanical-turks)
-
-`10-31` [Regulatory Capture in the Railroad Industry](https://matt-rickard.com/regulatory-capture-in-the-railroad-industry)
 <!--- end_blog -->
 </td></tr></table>
