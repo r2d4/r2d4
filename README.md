@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-15` [The Cost of Index Everything](https://matt-rickard.com/the-cost-of-index-everything)
+
 `11-14` [What if Google Wasn’t The Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 
 `11-13` [Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model)
@@ -61,7 +63,5 @@
 `11-07` [The Context Length Observation](https://matt-rickard.com/the-context-length-observation)
 
 `11-06` [To be, or not to be; ay, there’s the point.](https://matt-rickard.com/to-be-or-not-to-be-ay-theres-the-point)
-
-`11-05` [Improving RAG: Strategies](https://matt-rickard.com/improving-rag-strategies)
 <!--- end_blog -->
 </td></tr></table>
