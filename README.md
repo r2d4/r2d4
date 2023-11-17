@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-17` [The AI-Neid](https://matt-rickard.com/the-ai-neid)
+
 `11-16` [Model Merge (Frankenmerge)](https://matt-rickard.com/model-merge-frankenmerge)
 
 `11-15` [The Cost of Index Everything](https://matt-rickard.com/the-cost-of-index-everything)
@@ -61,7 +63,5 @@
 `11-09` [AI Agents Today](https://matt-rickard.com/ai-agents-today)
 
 `11-08` [Norvig's Agent Definition](https://matt-rickard.com/norvigs-agent-definition)
-
-`11-07` [The Context Length Observation](https://matt-rickard.com/the-context-length-observation)
 <!--- end_blog -->
 </td></tr></table>
