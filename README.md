@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-18` [The Model is Not the Product](https://matt-rickard.com/the-model-is-not-the-product)
+
 `11-17` [The AI-Neid](https://matt-rickard.com/the-ai-neid)
 
 `11-16` [Model Merge (Frankenmerge)](https://matt-rickard.com/model-merge-frankenmerge)
@@ -61,7 +63,5 @@
 `11-10` [The Call to Adventure](https://matt-rickard.com/the-call-to-adventure)
 
 `11-09` [AI Agents Today](https://matt-rickard.com/ai-agents-today)
-
-`11-08` [Norvig's Agent Definition](https://matt-rickard.com/norvigs-agent-definition)
 <!--- end_blog -->
 </td></tr></table>
