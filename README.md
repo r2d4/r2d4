@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-19` [The Catilinarian Conspiracy](https://matt-rickard.com/the-catilinarian-conspiracy)
+
 `11-18` [The Model is Not the Product](https://matt-rickard.com/the-model-is-not-the-product)
 
 `11-17` [The AI-Neid](https://matt-rickard.com/the-ai-neid)
@@ -61,7 +63,5 @@
 `11-11` [The Lucretius Problem](https://matt-rickard.com/the-lucretius-problem)
 
 `11-10` [The Call to Adventure](https://matt-rickard.com/the-call-to-adventure)
-
-`11-09` [AI Agents Today](https://matt-rickard.com/ai-agents-today)
 <!--- end_blog -->
 </td></tr></table>
