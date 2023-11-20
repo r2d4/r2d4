@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-20` [The Encyclopedia of Integer Sequences](https://matt-rickard.com/the-encyclopedia-of-integer-sequences)
+
 `11-19` [The Catilinarian Conspiracy](https://matt-rickard.com/the-catilinarian-conspiracy)
 
 `11-18` [The Model is Not the Product](https://matt-rickard.com/the-model-is-not-the-product)
@@ -61,7 +63,5 @@
 `11-12` [Eroom's Law](https://matt-rickard.com/erooms-law)
 
 `11-11` [The Lucretius Problem](https://matt-rickard.com/the-lucretius-problem)
-
-`11-10` [The Call to Adventure](https://matt-rickard.com/the-call-to-adventure)
 <!--- end_blog -->
 </td></tr></table>
