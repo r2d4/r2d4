@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-21` [Take Your Time Making Decisions](https://matt-rickard.com/take-your-time-making-decisions)
+
 `11-20` [The Encyclopedia of Integer Sequences](https://matt-rickard.com/the-encyclopedia-of-integer-sequences)
 
 `11-19` [The Catilinarian Conspiracy](https://matt-rickard.com/the-catilinarian-conspiracy)
@@ -61,7 +63,5 @@
 `11-13` [Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model)
 
 `11-12` [Eroom's Law](https://matt-rickard.com/erooms-law)
-
-`11-11` [The Lucretius Problem](https://matt-rickard.com/the-lucretius-problem)
 <!--- end_blog -->
 </td></tr></table>
