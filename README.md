@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-23` [Duties of a Board of Directors](https://matt-rickard.com/duties-of-a-board-of-a-directors)
+
 `11-22` [Strategies for the GPU-Poor](https://matt-rickard.com/strategies-for-the-gpu-poor)
 
 `11-21` [Take Your Time Making Decisions](https://matt-rickard.com/take-your-time-making-decisions)
@@ -61,7 +63,5 @@
 `11-15` [The Cost of Index Everything](https://matt-rickard.com/the-cost-of-index-everything)
 
 `11-14` [What if Google Wasn’t The Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
-
-`11-13` [Copilot is an Incumbent Business Model](https://matt-rickard.com/copilot-is-an-incumbent-business-model)
 <!--- end_blog -->
 </td></tr></table>
