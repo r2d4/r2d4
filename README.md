@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-24` [How AI Changes Workflows](https://matt-rickard.com/how)
+
 `11-23` [Duties of a Board of Directors](https://matt-rickard.com/duties-of-a-board-of-a-directors)
 
 `11-22` [Strategies for the GPU-Poor](https://matt-rickard.com/strategies-for-the-gpu-poor)
@@ -61,7 +63,5 @@
 `11-16` [Model Merge (Frankenmerge)](https://matt-rickard.com/model-merge-frankenmerge)
 
 `11-15` [The Cost of Index Everything](https://matt-rickard.com/the-cost-of-index-everything)
-
-`11-14` [What if Google Wasn’t The Default?](https://matt-rickard.com/what-if-google-wasnt-the-default)
 <!--- end_blog -->
 </td></tr></table>
