@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-25` [Are Things Getting Worse?](https://matt-rickard.com/are-things-getting-worse)
+
 `11-24` [How AI Changes Workflows](https://matt-rickard.com/how)
 
 `11-23` [Duties of a Board of Directors](https://matt-rickard.com/duties-of-a-board-of-a-directors)
@@ -61,7 +63,5 @@
 `11-17` [The AI-Neid](https://matt-rickard.com/the-ai-neid)
 
 `11-16` [Model Merge (Frankenmerge)](https://matt-rickard.com/model-merge-frankenmerge)
-
-`11-15` [The Cost of Index Everything](https://matt-rickard.com/the-cost-of-index-everything)
 <!--- end_blog -->
 </td></tr></table>
