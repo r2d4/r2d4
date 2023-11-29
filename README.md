@@ -44,6 +44,12 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-28` [The Unreasonable Effectiveness of Monte Carlo](https://matt-rickard.com/the-unreasonable-effectiveness-of-monte-carlo)
+
+`11-27` [Razor and Blades Model](https://matt-rickard.com/razor-and-blades-model)
+
+`11-26` [Drawbacks of Moving to the Edge](https://matt-rickard.com/drawbacks-of-moving-to-the-edge)
+
 `11-25` [Are Things Getting Worse?](https://matt-rickard.com/are-things-getting-worse)
 
 `11-24` [How AI Changes Workflows](https://matt-rickard.com/how)
@@ -57,11 +63,5 @@
 `11-20` [The Encyclopedia of Integer Sequences](https://matt-rickard.com/the-encyclopedia-of-integer-sequences)
 
 `11-19` [The Catilinarian Conspiracy](https://matt-rickard.com/the-catilinarian-conspiracy)
-
-`11-18` [The Model is Not the Product](https://matt-rickard.com/the-model-is-not-the-product)
-
-`11-17` [The AI-Neid](https://matt-rickard.com/the-ai-neid)
-
-`11-16` [Model Merge (Frankenmerge)](https://matt-rickard.com/model-merge-frankenmerge)
 <!--- end_blog -->
 </td></tr></table>
