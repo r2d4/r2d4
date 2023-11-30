@@ -44,6 +44,8 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`11-29` [Standard Causes of Human Misjudgment (Munger)](https://matt-rickard.com/standard-causes-of-human-misjudgment-munger)
+
 `11-28` [The Unreasonable Effectiveness of Monte Carlo](https://matt-rickard.com/the-unreasonable-effectiveness-of-monte-carlo)
 
 `11-27` [Razor and Blades Model](https://matt-rickard.com/razor-and-blades-model)
@@ -61,7 +63,5 @@
 `11-21` [Take Your Time Making Decisions](https://matt-rickard.com/take-your-time-making-decisions)
 
 `11-20` [The Encyclopedia of Integer Sequences](https://matt-rickard.com/the-encyclopedia-of-integer-sequences)
-
-`11-19` [The Catilinarian Conspiracy](https://matt-rickard.com/the-catilinarian-conspiracy)
 <!--- end_blog -->
 </td></tr></table>
