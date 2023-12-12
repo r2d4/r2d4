@@ -44,6 +44,18 @@
   
 ## <a href="https://matt-rickard.com">matt-rickard.com</a>
 <!--- start_blog -->
+`12-05` [Pseudonyms in American History](https://matt-rickard.com/pseudonyms-in-american-history)
+
+`12-04` [Fairchildren](https://matt-rickard.com/fairchildren)
+
+`12-03` [ChatGPT After One Year](https://matt-rickard.com/chatgpt-after-one-year)
+
+`12-02` [McNamara Fallacy](https://matt-rickard.com/mcnamara-fallacy)
+
+`12-01` [Data Quality in LLMs](https://matt-rickard.com/data-quality-in-llms)
+
+`11-30` [Discord and AI GTM](https://matt-rickard.com/discord-and-ai-gtm)
+
 `11-29` [Standard Causes of Human Misjudgment (Munger)](https://matt-rickard.com/standard-causes-of-human-misjudgment-munger)
 
 `11-28` [The Unreasonable Effectiveness of Monte Carlo](https://matt-rickard.com/the-unreasonable-effectiveness-of-monte-carlo)
@@ -51,17 +63,5 @@
 `11-27` [Razor and Blades Model](https://matt-rickard.com/razor-and-blades-model)
 
 `11-26` [Drawbacks of Moving to the Edge](https://matt-rickard.com/drawbacks-of-moving-to-the-edge)
-
-`11-25` [Are Things Getting Worse?](https://matt-rickard.com/are-things-getting-worse)
-
-`11-24` [How AI Changes Workflows](https://matt-rickard.com/how)
-
-`11-23` [Duties of a Board of Directors](https://matt-rickard.com/duties-of-a-board-of-a-directors)
-
-`11-22` [Strategies for the GPU-Poor](https://matt-rickard.com/strategies-for-the-gpu-poor)
-
-`11-21` [Take Your Time Making Decisions](https://matt-rickard.com/take-your-time-making-decisions)
-
-`11-20` [The Encyclopedia of Integer Sequences](https://matt-rickard.com/the-encyclopedia-of-integer-sequences)
 <!--- end_blog -->
 </td></tr></table>
