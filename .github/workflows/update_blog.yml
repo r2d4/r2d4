@@ -1,28 +1,28 @@
-name: Update README with Blog Links
+# name: Update README with Blog Links
 
-on:
-  schedule:
-    - cron: "0 15 * * *" # Runs every day at 7am PST (15:00 UTC)
+# on:
+#   schedule:
+#     - cron: "0 15 * * *" # Runs every day at 7am PST (15:00 UTC)
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out code
-        uses: actions/checkout@v2
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Check out code
+#         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.x"
+#       - name: Set up Python
+#         uses: actions/setup-python@v2
+#         with:
+#           python-version: "3.x"
 
-      - name: Run script to update README
-        run: python fetch_rss_to_markdown.py
+#       - name: Run script to update README
+#         run: python fetch_rss_to_markdown.py
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update blog links in README" || echo "No changes to commit"
-          git push
+#       - name: Commit changes
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git add README.md
+#           git commit -m "Update blog links in README" || echo "No changes to commit"
+#           git push
